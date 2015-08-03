@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/group/keokyet/trunk/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="actionbar">#3cb879</color>
     <color name="bg_btn_go">#01DF3A</color>
@@ -16,11 +16,11 @@
     <color name="text_msg_input">#626262</color>
     <color name="title_gray">#434343</color>
     <color name="white">#ffffff</color>
-    <!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/E:/group/keokyet/trunk/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/group/keokyet/trunk/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_Account">Account</string>
     <string name="action_Circle">Circle Options</string>
@@ -41,7 +41,7 @@
     <string name="title_activity_funtion_main">FuntionMain</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
-    <!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/E:/group/keokyet/trunk/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
 

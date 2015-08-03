@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" android:showAsAction="never" />
 </menu>
-<!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/menu/menu_circle_option.xml -->
+<!-- From: file:/E:/group/keokyet/trunk/app/src/main/res/menu/menu_circle_option.xml -->

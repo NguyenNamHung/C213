@@ -1,19 +1,17 @@
 package fpt.edu.trackingmobile;
 
-import fpt.edu.trackingmobile.adapter.TabsPagerAdapter;
-import info.androidhive.tabsswipe.R;
-
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
 import android.app.FragmentTransaction;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import fpt.edu.trackingmobile.adapter.TabsPagerAdapter;
+import info.androidhive.tabsswipe.R;
 
 public class MainActivity extends FragmentActivity implements
 		ActionBar.TabListener {
@@ -22,6 +20,7 @@ public class MainActivity extends FragmentActivity implements
 	private TabsPagerAdapter mAdapter;
 	private ActionBar actionBar;
 	// Tab titles
+	//test123
 	private String[] tabs = { "Maps", "Friends"};
 
 	@Override
