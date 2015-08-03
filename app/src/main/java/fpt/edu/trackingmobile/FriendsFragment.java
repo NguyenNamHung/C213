@@ -14,7 +14,7 @@ public class FriendsFragment extends Fragment {
 			Bundle savedInstanceState) {
 
 		View rootView = inflater.inflate(R.layout.fragment_friends, container, false);
-		
+		//test
 		return rootView;
 	}
 
