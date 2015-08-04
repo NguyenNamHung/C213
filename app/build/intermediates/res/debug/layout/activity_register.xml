@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="fpt.edu.trackingmobile.RegisterActivity"
+    android:background="@color/actionbar">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/appDes3"
+        android:id="@+id/textView"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="48dp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="89dp"
+        android:background="@color/white"
+        android:inputType="textCapWords"
+        android:padding="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_btn_join"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="@string/btn_go"
+        android:textColor="@color/white"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/name"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+<!-- From: file:/E:/C213Group_DraftUI_Ver1.0/TrackingMoble/app/src/main/res/layout/activity_register.xml -->
